@@ -1,6 +1,4 @@
-# Blazor-Tutorial
-
-// Home 
+# Blazor-Tutorial 
 
 @page "/"
 
@@ -12,7 +10,6 @@ Welcome to your new app.
 
 <Counter IncrementAmount="10" />
 
-// Counter 
 @page "/counter"
 @rendermode InteractiveServer
 
